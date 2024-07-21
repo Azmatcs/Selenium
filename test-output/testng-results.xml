@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T21:15:03 IST" name="Default suite" finished-at="2024-07-20T21:15:32 IST" duration-ms="29631">
+    <groups>
+    </groups>
+    <test started-at="2024-07-20T21:15:03 IST" name="Default test" finished-at="2024-07-20T21:15:32 IST" duration-ms="29631">
+      <class name="Demo.Extent">
+        <test-method is-config="true" signature="config()[pri:0, instance:Demo.Extent@6e0f5f7f]" started-at="2024-07-20T21:15:03 IST" name="config" finished-at="2024-07-20T21:15:04 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="ExtentR()[pri:0, instance:Demo.Extent@6e0f5f7f]" started-at="2024-07-20T21:15:04 IST" name="ExtentR" finished-at="2024-07-20T21:15:32 IST" duration-ms="28771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentR -->
+      </class> <!-- Demo.Extent -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
